@@ -5,7 +5,7 @@ I'm a full-stack junior software developer who has just graduated Makers Academy
 - 🔭 I’m currently working on personal projects and job hunting
 - 🌱 I’m currently learning React Native
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I've lived in Japan 🇯🇵
+- ⚡ Fun fact: I've lived in Japan teaching English as a foreign language 🇯🇵
 - 📫 How to reach me: 
 
     [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/charlotte-smallwood-smith/)[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:c.smallwood.smith@gmail.com)

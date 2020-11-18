@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a full-stack junior software developer who has just graduated Makers Academy.
+I'm a junior software developer who has just graduated Makers Academy.
 
 - 🔭 I’m currently working on personal projects and job hunting
 - 🌱 I’m currently learning React Native

@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-I'm a junior software developer who has just graduated Makers Academy.
+I'm a Associate Engineer at Just Eat and a Makers Academy graduate. 
 
-- 🔭 I’m currently working on personal projects and job hunting
-- 🌱 I’m currently learning React Native & Vue.js
+- 🔭 I’m currently working on Genshin Card Generator
+- 🌱 I’m currently learning C#
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've lived in Japan teaching English as a foreign language 🗾
 - 📫 How to reach me: 
